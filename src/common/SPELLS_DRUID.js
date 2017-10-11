@@ -663,6 +663,16 @@ export default {
     name: 'The Emerald Dreamcatcher',
     icon: 'inv_helmet_81',
   },
+  ONETHS_FREE_STARSURGE: {
+	id: 209406,
+	name: 'Oneth\'s Intuition',
+	icon: 'inv_bracer_40',
+  },
+  ONETHS_FREE_STARFALL: {
+	id: 209407,
+	name: 'Oneth\'s Overconfidence',
+	icon: 'inv_bracer_40',
+  },
   ASTRAL_ACCELERATION: {
     id: 242232,
     name: 'Astral Acceleration',

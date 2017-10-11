@@ -24,6 +24,7 @@ import UnempoweredLs from './Modules/Spells/UnempoweredLs';
 
 //Items
 import EmeraldDreamcatcher from './Modules/Items/EmeraldDreamcatcher';
+import OnethsIntuition from './Modules/Items/OnethsIntuition';
 
 
 class CombatLogParser extends MainCombatLogParser {
@@ -45,6 +46,7 @@ class CombatLogParser extends MainCombatLogParser {
     unempoweredLS: UnempoweredLs,
     //Items
     emeraldDreamcatcher: EmeraldDreamcatcher,
+	onethsIntuition: OnethsIntuition,
   };
 
   generateResults() {
